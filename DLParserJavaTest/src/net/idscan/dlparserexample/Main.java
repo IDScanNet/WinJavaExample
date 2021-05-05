@@ -16,7 +16,7 @@ import java.nio.file.Paths;
 
 public class Main {
 
-    private static final String _KEY = "UbCwu+YxevbxEBjTx3Q6dx2t2ZL4UFi3xtmzOGbVIZ/+fpRF8azwSffYcjJMY2hF6vQsH4sE14fmrG88zE0NI1iocj1xYAnqTATYWM+ou1oYX+mr4wjwnSJC9EOdkOhAe1LabqC9rHStqNkI9u63zkAvblrloHUjTxeL8zDIQW4=";
+    private static final String _KEY = "";
     private static final String test_data = "%MNBURNSVILLE^HOMER J. SYMPSON^13225 MADRID RD^?\n\n;636038326007403611=12091991090106?\n\n%\" 55306      D               F064124   HZL                           X\"+H)     ?";
 
     public static void main(String[] args) {
